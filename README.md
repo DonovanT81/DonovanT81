@@ -4,9 +4,11 @@
 
 - <b>Aws Labs/Blogs</b>
 
-  [Build, Secure, Monitor Network on AWS](https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45)
 
- <a href="[https://github.com/DonovanT81/DonovanT81](https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45)">Build, Secure, Monitor Network on AWS</a>
+ -  [Build, Secure, Monitor Network on AWS](https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45)
+ -  [Creating IAM Users & Assigning AWS Policies Using Terraform](https://medium.com/@donovanjtucker14/creating-iam-users-assigning-aws-policies-using-terraform-2e8ff55988e7)
+
+
   - [Creating IAM Users & Assigning AWS Policies Using Terraform]([https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45])
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
