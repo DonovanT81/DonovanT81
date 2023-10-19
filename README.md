@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 AWS Cloud Labs:</h2>
 
-- <b>Build, Secure, Monitor Network on AWS Labs</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Aws Labs/Blogs</b>
+  - [Build, Secure, Monitor Network on AWS]([https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45])
+ 
+  - [Creating IAM Users & Assigning AWS Policies Using Terraform]([https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45])
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
