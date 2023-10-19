@@ -3,7 +3,7 @@
 <h2>👨‍💻 AWS Cloud Labs:</h2>
 
 - <b>Aws Labs/Blogs</b>
-  - [Build, Secure, Monitor Network on AWS]([https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45])
+  - [Build, Secure, Monitor Network on AWS] [https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45])
  
   - [Creating IAM Users & Assigning AWS Policies Using Terraform]([https://medium.com/@donovanjtucker14/build-secure-and-monitor-networks-on-aws-a1681050ae45])
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
