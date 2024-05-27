@@ -10,7 +10,7 @@
 
 
 - <b>Python</b>
-  - (Coming Soon)
+  - https://github.com/DonovanT81/Python-Labs
 
 <!--
 
